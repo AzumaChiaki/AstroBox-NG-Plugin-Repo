@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-28T06:18:34.546Z",
+  "generatedAt": "2026-11-28T16:37:22.707Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -390,7 +390,7 @@
       "manifest": {
         "name": "嘿哈嘚 音频同步",
         "icon": "icon.png",
-        "version": "26.10.5",
+        "version": "26.11.28",
         "description": "把音频与封面同步为手表自定义音效；同步前自动去静音、压缩至 64k（非 MP3 自动转为 MP3，体积变大时保留原文件），封面自动转为 PNG，并可管理已同步的音效。",
         "author": "桦树abc",
         "website": "https://github.com/MinimumBubble11/Heihade_update/",
@@ -567,7 +567,7 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "4.6.3",
+        "version": "4.6.11",
         "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档、阅读统计与云存档（HTML 界面 · API Level 4）",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
@@ -1244,7 +1244,7 @@
       "manifest": {
         "name": "腕读同步",
         "icon": "icon.png",
-        "version": "0.2.5",
+        "version": "0.2.6",
         "description": "把 RSS / Atom 订阅的文章同步到手环上的「腕读」，同步一次，离线慢慢看。",
         "author": "Wildchiken",
         "website": "",
